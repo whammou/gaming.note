@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID: 66e2f300-890c-409d-a96f-ed6115e102dc
+:END:
+#+TITLE: Overcooked Guide
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:META:GAMING:OVERCOOKED:GUIDE:
+#+HTML:<details>
+
+* Overcooked Guide :DOC:META:GAMING:OVERCOOKED:GUIDE:
+#+HTML:</details>
+An Overcooked guide
+** DONE Unlock Hidden Levels :OVERCOOKED:
+CLOSED: [2025-09-21 Sun 06:23]
+:PROPERTIES:
+:ID:       b9c514f7-593d-4c54-beb5-22d24343ca3f
+:END:
+List of hidden =Kevins=
+- *Kevin Level 1:*
+  + Unlocked 1-3
+  + Solo: Combo of 2
+  + Co-op: Combo of 2
+- *Kevin Level 2:*
+  + Unlocked 2-2
+  + Solo: Combo of 3
+  + Co-op: Combo of 5
+- *Kevin Level 3*:
+  + Unlock 2-4
+  + Solo: Score of 600
+  + Co-op: Score of 1000
+- *Kevin Level 4:*
+  + Unlock 3-1
+  + Solo Score of 450
+  + Co-op: Score of 1100
+- *Kevin Level 5:*
+  + Unlock 4-3
+  + Solo: Combo of 4
+  + Co-op: Combo of 5
+- *Kevin Level 6:*
+  + Unlock 4-5
+  + Solo: Score of 400
+  + Co-op: Score of 500
+- *Kevin Level 7:*
+  + Unlock 5-5
+  + Solo: Combo of 5
+  + Co-op: Combo of 8
+- *Kevin Level 8:
+  + Unlock 6-4
+  + Solo: Combo of 5
+  + Co-op: Combo of 7
+** OUTLINE Overcooked Strategies :STRAT:
+- =Combo= is sequence of delivered =orders=
