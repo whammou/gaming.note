@@ -9,13 +9,13 @@ CLOSED: [2025-08-04 Mon 21:15] DEADLINE: <2025-08-04 Mon>
 - *OBJECTIVE:* Initialize new notes for gaming
 - *Reference:* [[https://old.reddit.com/r/esports/comments/uq7noc/how_many_hours_should_i_practice_a_day/][Practice hour @Reddit]]
 ** TODO Create a Practice Schedule :SCHEDULING:
-DEADLINE: <2025-10-06 Mon>
+DEADLINE: <2025-10-07 Tue>
 - *OBJECTIVE:* Create a competitive skill practice schedules for each game
 ** PENDING Learn Chess Notion :CHESS:
 - *OBJECTIVE:* Learn chess SAN notion
 - *Reference:* [[https://www.chess.com/terms/chess-notation][Chess SAN notion @Chess.com]]
 ** DONE Overcooked Unlock Hidden Levels :OVERCOOKED:
-DEADLINE: <2025-09-21 Sun> CLOSED: [2025-09-21 Sun 06:23]
+CLOSED: [2025-09-21 Sun 06:23] DEADLINE: <2025-09-21 Sun>
 - *OBJECTIVE:* Unlock all hidden levels in =Overcooked 2=
 - *Reference:* [[https://www.youtube.com/watch?v=noJ7eLyrxIE][Unlock Hidden Level Kevin @Youtube]]
 - *Checkout:* [[id:b9c514f7-593d-4c54-beb5-22d24343ca3f][Unlock Hidden Levels @Org]]
