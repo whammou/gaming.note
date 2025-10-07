@@ -11,7 +11,7 @@ CLOSED: [2025-08-04 Mon 21:15] DEADLINE: <2025-08-04 Mon>
 ** TODO Create a Practice Schedule :SCHEDULING:
 DEADLINE: <2025-10-08 Wed>
 - *OBJECTIVE:* Create a competitive skill practice schedules for each game
-** PENDING Learn Chess Notion :CHESS:
+** PEND Learn Chess Notion :CHESS:
 - *OBJECTIVE:* Learn chess SAN notion
 - *Reference:* [[https://www.chess.com/terms/chess-notation][Chess SAN notion @Chess.com]]
 ** DONE Overcooked Unlock Hidden Levels :OVERCOOKED:
