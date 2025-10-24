@@ -5,7 +5,7 @@
 
 * List of Planned Tasks :TASK:PLANNED:GAMING:META:
 ** PEND Replay via Remote Connect :VALORANT:remoteconnection:
-DEADLINE: <2025-10-20 Mon>
+DEADLINE: <2025-10-24 Fri>
 - *OBJECTIVE:* Remote connect to machine a watch replay
 - *Reference:*
   + [[https://www.reddit.com/r/VALORANT/comments/18jvcg7/comment/kgcj599/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button][Remote Connect via VirtualHere @Reddit]]
