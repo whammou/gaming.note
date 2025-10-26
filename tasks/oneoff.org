@@ -9,7 +9,7 @@ CLOSED: [2025-08-04 Mon 21:15] DEADLINE: <2025-08-04 Mon>
 - *OBJECTIVE:* Initialize new notes for gaming
 - *Reference:* [[https://old.reddit.com/r/esports/comments/uq7noc/how_many_hours_should_i_practice_a_day/][Practice hour @Reddit]]
 ** TODO Create a Practice Schedule :SCHEDULING:
-DEADLINE: <2025-10-25 Sat>
+DEADLINE: <2025-10-27 Mon>
 - *OBJECTIVE:* Create a competitive skill practice schedules for each game
 ** PEND Learn Chess Notion :CHESS:
 - *OBJECTIVE:* Learn chess SAN notion
