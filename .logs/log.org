@@ -1,0 +1,4 @@
+#+TITLE: Gaming Logs
+#+OPTIONS: todo:nil tasgs:nil ^:nil
+
+* Logs :LOG:GAMING:
