@@ -4,7 +4,8 @@
 #+TITLE: Gaming Planned Tasks
 
 * List of Planned Tasks :TASK:PLANNED:GAMING:META:
-** TODO Replay via Remote Connect :VALORANT:gamestream:
+** ABRT Replay via Remote Connect :VALORANT:gamestream:
+CLOSED: [2026-03-17 Tue 04:36]
 - *OBJECTIVE:* Remote connect to machine a watch replay
 - *Reference:*
   + [[https://www.reddit.com/r/VALORANT/comments/18jvcg7/comment/kgcj599/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button][Remote Connect via VirtualHere @Reddit]]
