@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Gaming Planned Tasks
 
-* List of Planned Tasks :%Task:PLANNED:@Gaming:#Meta:
+* List of Planned Tasks :%Task:_Planned:@Gaming:#Meta:
 ** ABRT Replay via Remote Connect :@Valorant:gamestream:
 CLOSED: [2026-03-17 Tue 04:36]
 - *OBJECTIVE:* Remote connect to machine a watch replay
