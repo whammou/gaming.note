@@ -20,7 +20,7 @@
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
     :@Gaming:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:@Gaming:STRATEGY:VALORANT:=
+    Example: =:@Gaming:STRATEGY:@Valorant:=
 
 * Typical Files
   - =docs/<something>.org= – game guides, strategy notes, post‑match analysis.
