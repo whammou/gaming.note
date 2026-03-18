@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :%Doc:meta:GAMING:OVERCOOKED:GUIDE:
+#+FILETAGS: :typDoc:meta:GAMING:OVERCOOKED:GUIDE:
 #+HTML:<details>
 
-* Overcooked Guide :%Doc:meta:GAMING:OVERCOOKED:GUIDE:
+* Overcooked Guide :typDoc:meta:GAMING:OVERCOOKED:GUIDE:
 #+HTML:</details>
 An Overcooked guide
 ** DONE Unlock Hidden Levels :OVERCOOKED:
