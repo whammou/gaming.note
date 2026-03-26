@@ -49,5 +49,5 @@ List of hidden =Kevins=
   + Unlock 6-4
   + Solo: Combo of 5
   + Co-op: Combo of 7
-** OUTL Overcooked Strategies :_Strategy:
+** OUTL Overcooked Strategies :opStrategy:
 - =Combo= is sequence of delivered =orders=
