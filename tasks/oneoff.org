@@ -3,21 +3,8 @@
 #+TITLE: Gaming Oneoff Tasks
 
 * List of Oneoff Tasks :typTask:catOneoff:GAMING:meta:
-** DONE Initialize Gaming Notes
-CLOSED: [2025-08-04 Mon 21:15] DEADLINE: <2025-08-04 Mon>
-- *OBJECTIVE:* Initialize new notes for gaming
-- *Reference:* [[https://old.reddit.com/r/esports/comments/uq7noc/how_many_hours_should_i_practice_a_day/][Practice hour @Reddit]]
 ** PEND Create a Practice Schedule :SCHEDULING:
 - *OBJECTIVE:* Create a competitive skill practice schedules for each game
 ** PEND Learn Chess Notion :CHESS:
 - *OBJECTIVE:* Learn chess SAN notion
 - *Reference:* [[https://www.chess.com/terms/chess-notation][Chess SAN notion @Chess.com]]
-** DONE Overcooked Unlock Hidden Levels :OVERCOOKED:
-CLOSED: [2025-09-21 Sun 06:23] DEADLINE: <2025-09-21 Sun>
-- *OBJECTIVE:* Unlock all hidden levels in =Overcooked 2=
-- *Reference:* [[https://www.youtube.com/watch?v=noJ7eLyrxIE][Unlock Hidden Level Kevin @Youtube]]
-- *Checkout:* [[id:b9c514f7-593d-4c54-beb5-22d24343ca3f][Unlock Hidden Levels @Org]]
-** DONE Learn Steam Controller Layout :CONTROLLER:opLayout:
-DEADLINE: <2025-09-22 Mon>
-- *OBJECTIVE:* Learn Steam controller button terminology and controller layout
-- *Reference:* [[https://old.reddit.com/r/SteamController/comments/1g542lv/basic_guide_for_steam_controller_users_newbies/][Basic Steam Controller Guide @Reddit]]
