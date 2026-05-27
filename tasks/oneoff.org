@@ -1,10 +1,9 @@
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
-#+TITLE: Gaming Oneoff Tasks
+#+FILETAGS: :typTask:catOneoff:GAMING:
 
-* List of Oneoff Tasks :typTask:catOneoff:GAMING:meta:
-** PEND Create a Practice Schedule :SCHEDULING:
+* PEND Create a Practice Schedule :SCHEDULING:
 - *OBJECTIVE:* Create a competitive skill practice schedules for each game
-** PEND Learn Chess Notion :CHESS:
+* PEND Learn Chess Notion :CHESS:
 - *OBJECTIVE:* Learn chess SAN notion
 - *Reference:* [[https://www.chess.com/terms/chess-notation][Chess SAN notion @Chess.com]]
