@@ -3,15 +3,11 @@
 :END:
 #+TITLE: Overcooked Guide
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:meta:GAMING:OVERCOOKED:GUIDE:
-#+HTML:<details>
-
-* Overcooked Guide :typDoc:meta:GAMING:OVERCOOKED:GUIDE:
-#+HTML:</details>
 An Overcooked guide
-** DONE Unlock Hidden Levels :OVERCOOKED:
+* DONE [#A] Unlock Hidden Levels :OVERCOOKED:
 CLOSED: [2025-09-21 Sun 06:23]
 :PROPERTIES:
 :ID:       b9c514f7-593d-4c54-beb5-22d24343ca3f
@@ -49,5 +45,5 @@ List of hidden =Kevins=
   + Unlock 6-4
   + Solo: Combo of 5
   + Co-op: Combo of 7
-** OUTL Overcooked Strategies :opStrategy:
+* OUTL [#A] Overcooked Strategies :opStrategy:
 - =Combo= is sequence of delivered =orders=
