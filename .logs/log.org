@@ -1,4 +1,5 @@
-#+TITLE: Gaming Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
+#+TITLE: Gaming Log
+#+DESCRIPTION: Logs of finished items
+#+FILETAGS: :GAMING:LOG:
 
 * Logs :LOG:GAMING:
