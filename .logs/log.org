@@ -1,5 +1,5 @@
 #+TITLE: Gaming Log
 #+DESCRIPTION: Logs of finished items
-#+FILETAGS: :GAMING:LOG:
+#+FILETAGS: :topGaming:LOG:
 
-* Logs :LOG:GAMING:
+* Logs :LOG:topGaming:
